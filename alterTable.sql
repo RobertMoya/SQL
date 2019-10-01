@@ -1,7 +1,7 @@
 --California State University, San Bernardino
 --Department of Computer Science
 --Course: 572
--- Robert Moya Jensen Gastelum
+-- Robert Moya 
 --
 -- Taxi
 --Altering Table adding constraints
